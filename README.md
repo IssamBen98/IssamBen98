@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Issam_BENATIK
-- 👀 I’m interested in AI&Data 🤖, Business Inteligence 📊 and the Cloud ☁️
+- 👀 I’m interested in AI&Data 🤖 and the Cloud ☁️
 - 🌱 I’m currently on my last year to get my CS degree.
 - 📫 How to reach me  => LinkedIn profil : www.linkedin.com/in/issam-benatik
                       =>  Email : benatik.issam@outlook.fr
